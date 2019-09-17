@@ -20,5 +20,5 @@ class Test extends BaseController
         echo Pdf::getText('cosmic.pdf', $path);
         exit;
     }
-}
+} bbvvvv
 ?>
